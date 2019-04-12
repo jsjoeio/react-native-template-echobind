@@ -10,7 +10,6 @@ Our Recommended template for React Native projects.
 - TypeScript
 - react-navigation
 - Storybook 4
-- Detox for E2E tests
 - Emotion Native for styling
 
 🏆 Dev Productivity:
@@ -21,12 +20,6 @@ Our Recommended template for React Native projects.
 - default Fastlane scripts for icon generation
 - global styles and colors
 - react-navigation preconfigured with a common setup
-
-🤖 CI / Deployment:
-
-- CircleCI preconfigured for React Native. Fast build times!
-- Fastlane lanes for alpha, beta, and production releases. These should be run on CI only!
-- AppCenter integration for easy alpha distribution
 
 ## Setup
 
